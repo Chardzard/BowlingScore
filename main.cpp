@@ -1,5 +1,5 @@
 /*
-Parke Lovett
+Parke
 11/4/2022
 This program scores a game of bowling :)
 */
